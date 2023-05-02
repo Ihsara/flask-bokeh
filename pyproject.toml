@@ -6,7 +6,7 @@ authors = ["Ihsara <longchau21@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-flask = "^1.1.1"
+flask = "^2.2.5"
 bokeh = "^1.4.0"
 pandas = "^1.0.0"
 
